@@ -126,6 +126,9 @@
   animation: marquee 45s linear infinite;
 }
 
+.group:hover .group-hover\:pause {
+  animation-play-state: paused !important;
+}
 
 @layer base {
   * {

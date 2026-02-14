@@ -91,9 +91,9 @@ export default function GitHubSection() {
 
     return (
         <section className="mt-12 w-full px-4 md:px-8">
-            <div className="bg-card border border-border shadow-sm p-6 md:p-8 rounded-md w-full max-w-7xl mx-auto">
+            <div className="bg-card border border-border shadow-sm p-6 md:p-8 w-full max-w-7xl mx-auto">
                 <header className="mb-6 text-center">
-                    <h2 className="text-2xl font-bold text-card-foreground border-b border-border pb-2 inline-block">
+                    <h2 className="text-2xl font-bold border-b border-border pb-2 inline-block">
                         GitHub Commits
                     </h2>
 

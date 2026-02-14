@@ -6,4 +6,6 @@ export const techSkillsWithLogos = [
     { name: "MongoDB", logo: "/logos/mongodb.svg" },
     { name: "Laravel", logo: "/logos/laravel.svg" },
     { name: "shadcn/ui", logo: "/logos/shadcnui.svg" },
+    { name: "vite", logo: "/logos/vite.svg" },
+    { name: "bootstrap", logo: "/logos/bootstrap.svg" }
 ];
