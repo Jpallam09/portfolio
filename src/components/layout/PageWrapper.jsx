@@ -14,7 +14,7 @@ export default function PageWrapper({ children }) {
             overflow-hidden transition-colors duration-500
             "
         >
-            <main className="relative max-w-3xl mx-auto w-full py-16 px-4 md:px-12">
+            <main className="relative max-w-5xl mx-auto w-full py-16 px-6 md:px-16">
                 <motion.div
                     style={{ y: y1 }}
                     className="absolute -top-16 -left-16 w-64 h-64 bg-blue-200/40 dark:bg-blue-500/20 blur-3xl rounded-full -z-10"
